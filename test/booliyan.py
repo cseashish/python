@@ -6,6 +6,7 @@ u=0
 while u<len(my_list):
     print(my_list[u])
     u+=1
+    print("ashish")
     
 
 
